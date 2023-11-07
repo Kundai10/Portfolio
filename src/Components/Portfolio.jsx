@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Weekly Wins App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The App lets users set goals related to their mental health and well-being over a period of one week.",
+    url: "https://github.com/Kundai10/WeeklyWins",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Tip Calculator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A simple tip calculator for Android that allows a user to input amount of bill and tip percentage and get the exact tip amount and total bill as output built using Kotlin.",
+    url: "https://github.com/Kundai10/Simple-Tip-Calculator",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Formula One: From Bicycle Wheels to Rocket Science… Kind of",
+    description: "A blog about the history of Formula One",
+    url: "https://medium.com/@chasindak9/formula-one-from-bicycle-wheels-to-rocket-science-kind-of-00610a776870",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Hacktoberfest Open Source Contributor",
+    description: "Badges earned from Hacktoberfest",
+    url: "https://www.holopin.io/@kundai10#",
   },
 ];
 
